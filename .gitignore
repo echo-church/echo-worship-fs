@@ -13,3 +13,5 @@ yarn-error.log
 .env
 package-lock.json
 dist/*
+!s3/
+s3/**
